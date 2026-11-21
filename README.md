@@ -15,7 +15,7 @@
   </style>
 </head>
 <body>
-  <h1>竟游，领航！</h1>
+  <h1>竟游领航！</h1>
   <p>。</p >
 </body>
 </html>
